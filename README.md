@@ -9,16 +9,17 @@ Dashbed est une plateforme de réservation d'hôtels à prix réduit, spécialis
 | Resource | Link |
 |----------|------|
 | GitHub Project | [Roadmap & Kanban](https://github.com/users/rodlc/projects/2) |
-| Wireframes | [Figma](https://www.figma.com/VOTRE_LIEN_ICI) |
-| DB Schema | [Voir ci-dessous](#database-schema) |
+| Wireframes | [Figma](https://www.figma.com/design/Bbz1XbVX8BS39i6xDd5AMM/Hotel-Booking-App-Wireframe?node-id=0-1&p=f&t=sIHvXXeDBgk4Aeyt-11) |
+| DB Schema | [Kitt SQL Designer](https://kitt.lewagon.com/db/148753) |
 
 ## Team
 
 | Name | Role | Squad |
 |------|------|-------|
-| Alice | Frontend Developer | Deals UI |
-| Bob | Backend Developer | Auth |
-| Clara | Full-stack Developer | Booking |
+| Alice Martin | Fullstack Developer | Deals UI |
+| Bob Dupont | Fullstack Developer | Auth |
+| Clara Chen | Fullstack Developer | Booking |
+| David Leroy | Fullstack Developer | Infrastructure |
 
 ## Tech Stack
 
